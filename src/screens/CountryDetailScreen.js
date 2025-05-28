@@ -31,7 +31,7 @@ const CountryDetailScreen = ({ route }) => {
       <Text style={styles.name}>{country.name.common}</Text>
 
       <View style={styles.detail}>
-        <Text style={{ fontSize:18, fontWeight:"bold" }}>İnformation</Text>
+        <Text style={{ fontSize:18, fontWeight:"bold" }}>Information</Text>
         <Text>Capital: {capital}</Text>
         <Text>Region: {country.region}</Text>
         <Text>Population: {country.population.toLocaleString()}</Text>
