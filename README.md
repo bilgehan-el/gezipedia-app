@@ -2,19 +2,19 @@
 
 Gezipedia, Yıldız Teknik Üniversitesi Mobil Programlama (BTO4132) dersi için geliştirilmiş bir seyahat uygulamasıdır.
 
-## 🚀 Özellikler
+## Özellikler
 
 - Seçilen ülkenin:
-  - Bayrağı 🏳️
-  - Nüfusu 👥
-  - Başkenti 🏙️
-  - Para birimi 💰
-  - Bölgedeki tarihi ve popüler yerleri 📍
-- Favorilere ekleme özelliği ⭐
-- Arama ekranı 🔍
-- Alt tab menüsü ile kolay gezinme 🧭
+  - Bayrağı 
+  - Nüfusu 
+  - Başkenti 
+  - Para birimi 
+  - Bölgedeki tarihi ve popüler yerleri 
+- Favorilere ekleme özelliği 
+- Arama ekranı 
+- Alt tab menüsü ile kolay gezinme 
 
-## 🧰 Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 - [React Native](https://reactnative.dev/) (Expo)
 - [React Navigation](https://reactnavigation.org/)
@@ -24,7 +24,7 @@ Gezipedia, Yıldız Teknik Üniversitesi Mobil Programlama (BTO4132) dersi için
 - [REST Countries API](https://restcountries.com/) (Ülke bilgileri)
 - Wikimedia görsel bağlantıları (serbest lisanslı fotoğraflar)
 
-## 🧪 Proje Ekranları
+##  Proje Ekranları
 
 - **HomeScreen** – Öne çıkan ülkeler
 - **SearchScreen** – Ülke arama
@@ -32,10 +32,10 @@ Gezipedia, Yıldız Teknik Üniversitesi Mobil Programlama (BTO4132) dersi için
 - **FavoritesScreen** – Favori ülke listesi
 
 
-📱 **Expo Go** uygulaması ile QR kodu taratarak canlı test edebilirsiniz.
+**Expo Go** uygulaması ile QR kodu taratarak canlı test edebilirsiniz.
 
 
-## 📅 Proje Teslim Bilgileri
+## Proje Teslim Bilgileri
 
 - Ders: **BTO4132 Mobil Programlama**
 - Üniversite: **Yıldız Teknik Üniversitesi**
