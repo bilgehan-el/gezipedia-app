@@ -34,9 +34,6 @@ Gezipedia, Yıldız Teknik Üniversitesi Mobil Programlama (BTO4132) dersi için
 
 📱 **Expo Go** uygulaması ile QR kodu taratarak canlı test edebilirsiniz.
 
-## 🖼️ Ekran Görüntüleri
-
-(Ekran görüntülerini buraya ekleyebilirsiniz)
 
 ## 📅 Proje Teslim Bilgileri
 
